@@ -32,9 +32,12 @@ Run the Python file:
 python Score Predictor.py
 
 Output
+
 Predicted score displayed in console
 Graph showing relationship between study hours and score
+
 Future Improvements
+
 Use larger dataset
 Add multiple features (sleep, attendance, etc.)
 Try advanced models
