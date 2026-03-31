@@ -18,15 +18,16 @@ Graph visualization included
 
 Technologies Used
 
+
+
+
 Python
+NumPy,
+Pandas,
+Matplotlib,
+Scikit-learn,
 
-NumPy
 
-Pandas
-
-Matplotlib
-
-Scikit-learn
 
 How It Works
 
